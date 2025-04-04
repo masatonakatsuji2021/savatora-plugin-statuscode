@@ -1,0 +1,27 @@
+{
+  "name": "savatora-plugin-statuscode",
+  "version": "0.0.1",
+  "description": "Server application plugin for node.js - module for responding by status code.",
+  "author": "masato nakatsuji",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+      "node",
+      "npm",
+      "server",
+      "savatora",
+      "plugin"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/masatonakatsuji2021/savatora-plugin-statuscode.git"
+  },
+  "bugs": {
+      "url": "https://github.com/masatonakatsuji2021/savatora-plugin-statuscode/issues"
+  },
+  "homepage": ""
+}
